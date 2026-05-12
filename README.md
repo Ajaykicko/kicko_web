@@ -125,8 +125,7 @@ You can deploy this project using:
 
 ## 👨‍💻 Author
 
-Ajay Kumar  
-Founder of Kicko Tech
+Kicko Tech Team
 
 GitHub: https://github.com/Ajaykicko
 
